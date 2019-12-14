@@ -2,6 +2,6 @@
 
 const repo1 = require('..');
 
-describe('repo1', () => {
+describe('@raidenz/repo1', () => {
     it('needs tests');
 });

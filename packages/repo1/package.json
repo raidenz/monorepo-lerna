@@ -1,9 +1,9 @@
 {
-  "name": "repo1",
-  "version": "1.0.8",
-  "description": "> TODO: description",
+  "name": "@raidenz/repo1",
+  "version": "1.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
   "author": "raidenz <th.deny@gmail.com>",
-  "homepage": "https://github.com/raidenz/monorepo-lerna#readme",
   "license": "ISC",
   "main": "lib/repo1.js",
   "directories": {
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raidenz/monorepo-lerna.git"
@@ -23,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/raidenz/monorepo-lerna/issues"
   },
-  "gitHead": "1a295b2eeb388d578427fd7666a8774ec80d3fa7"
+  "homepage": "https://github.com/raidenz/monorepo-lerna#readme"
 }

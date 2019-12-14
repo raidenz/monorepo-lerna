@@ -1,13 +1,11 @@
-# `repo1`
+# `@raidenz/repo1`
 
 > TODO: description
 
 ## Usage
 
 ```
-const repo1 = require('repo1');
+const repo1 = require('@raidenz/repo1');
 
-// TODO: DEMONSTRATE API update
+// TODO: DEMONSTRATE API
 ```
-
-test
