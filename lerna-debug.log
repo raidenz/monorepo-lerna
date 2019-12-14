@@ -1,0 +1,8 @@
+38 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+39 error Error: Command failed: git tag repo1@1.0.6 -m repo1@1.0.6
+39 error fatal: tag 'repo1@1.0.6' already exists
+39 error
+39 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+39 error     at /usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16
+39 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+39 error     at async Promise.all (index 0)
